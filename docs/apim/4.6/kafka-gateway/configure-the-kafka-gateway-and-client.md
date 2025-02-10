@@ -2,7 +2,7 @@
 
 ## Overview
 
-Before you can use Gravitee to proxy n a Kafka cluster, you need to configure the Gravitee Kafka Gateway and a Kafka client. This article describes how to:
+Before you can use Gravitee to proxy a Kafka cluster, you need to configure the Gravitee Kafka Gateway and a Kafka client. This article describes how to:
 
 * [Configure the Kafka Gateway](configure-the-kafka-gateway-and-client.md#configure-the-kafka-gateway)
 * [Configure a Kafka client](configure-the-kafka-gateway-and-client.md#configure-the-kafka-client)
